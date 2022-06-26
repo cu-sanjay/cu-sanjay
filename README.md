@@ -1,8 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/cu-sanjay)
 <h1 align="center">Hi 👋, I'm Sanjay Choudhary ✨</h1>
-<h3 align="center">A Passionate Frontend Developer | Still Learning | India 🇮🇳</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-
+<h3 align="center"> Still Learning |A Passionate Frontend Developer | India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cu-sanjay&label=Profile%20views&color=0e75b6&style=flat" alt="cu-sanjay" /> </p>
 
