@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjay Choudhary ✨</h1>
-<h3 align="center"> Still Learning |A Passionate Frontend Developer | India 🇮🇳</h3>
+<h3 align="center"> Still Learning | FULL STACK WEB DEVELOPER | India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cu-sanjay&label=Profile%20views&color=0e75b6&style=flat" alt="cu-sanjay" /> </p>
 
