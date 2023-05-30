@@ -5,10 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cu-sanjay" alt="cu-sanjay" /></a> </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Chandigarh%20University-%23F37726.svg?&style=flat-square&logo=&logoColor=white" alt="chandigarh-university" height="30" />
-</p>
-
 - 📫 How to reach me **sanjaychoudharycu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
