@@ -1,51 +1,51 @@
 <h1 align="center">Hi 👋, I'm Sanjay Choudhary ✨</h1>
-<h3 align="center">Still Learning | FULL STACK WEB DEVELOPER | India 🇮🇳</h3>
+<h3 align="center"> Still Learning | FULL STACK WEB DEVELOPER | India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cu-sanjay&label=Profile%20views&color=0e75b6&style=flat" alt="cu-sanjay" />
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cu-sanjay&label=Profile%20views&color=0e75b6&style=flat" alt="cu-sanjay" /> </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cu-sanjay" alt="cu-sanjay" />
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cu-sanjay" alt="cu-sanjay" /></a> </p>
 
-- 📫 How to reach me: **sanjaychoudharycu@gmail.com**
+- 📫 How to reach me **sanjaychoudharycu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/sanjay02705" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjay02705" height="30" width="40" />
+  <a href="https://twitter.com/sanjay02705" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjay02705" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/sanjay-choudhary-6a82b3225" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-choudhary-6a82b3225" height="30" width="40" />
+  <a href="https://linkedin.com/in/sanjay-choudhary-6a82b3225" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-choudhary-6a82b3225" height="30" width="40" />
   </a>
-  <a href="https://codesandbox.com/sanjay-cuchd" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sanjay-cuchd" height="30" width="40" />
+  <a href="https://codesandbox.com/sanjay-cuchd" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sanjay-cuchd" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/sannjay._" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sannjay._" height="30" width="40" />
+  <a href="https://instagram.com/sannjay._" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sannjay._" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Coding Platforms:</h3>
+<h3 align="left">Participating in:</h3>
 <p align="left">
+  <a href="https://leetcode.com/cu-sanjay" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="30" />
+  </a>
   <a href="https://www.codechef.com/users/sanjay-cuchd" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/codechef_logo_icon_147203.png" alt="codechef" height="40" width="40" />
+    <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="codechef" height="30" width="30" />
   </a>
-  <a href="https://codeforces.com/profile/sanjay-cuchd" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/codeforces_logo_icon_147206.png" alt="codeforces" height="40" width="40" />
+  <a href="https://www.hackerrank.com/sanjay-2705" target="_blank">
+    <img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="hackerrank" height="30" width="30" />
   </a>
-  <a href="https://leetcode.com/sanjay-cuchd" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/leetcode_logo_icon_168060.png" alt="leetcode" height="40" width="40" />
+  <a href="https://auth.geeksforgeeks.org/user/cu-sanjay/profile" target="_blank">
+    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="geeksforgeeks" height="30" width="30" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/sanjay-cuchd/profile" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/geeksforicons_com_logo_icon_147201.png" alt="geeksforgeeks" height="40" width="40" />
-  </a>
-  <a href="https://unstop.online/contestant/sanjay-cuchd" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/contestant_logo_icon_147198.png" alt="unstop" height="40" width="40" />
-  </a>
+</p>
+
+<h3 align="left">Ideas, Problems, and Visuals:</h3>
+<p align="left">Here you can find my submissions from various programming contests, including CodeChef, LeetCode, HackerRank, and GeeksforGeeks. I participate regularly to improve my programming skills and problem-solving abilities.</p>
+<p align="left">I enjoy tackling challenging problems and exploring different algorithms and data structures. My submissions showcase my journey and progress as a programmer.</p>
+<p align="left">Feel free to explore the repository and find inspiration for your own coding journey. You may discover interesting solutions, efficient algorithms, and creative problem-solving approaches.</p>
+<p align="left">I believe that continuous learning and practice are key to becoming a better programmer. I strive to challenge myself with new problems and improve my coding skills every day.</p>
+<p align="center">
+  <img align="center" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="coding-gif" width="300" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -80,24 +80,16 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
   </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
 </p>
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cu-sanjay&show_icons=true&locale=en&layout=compact" alt="cu-sanjay" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=cu-sanjay&show_icons=true&count_private=true&theme=dark" alt="cu-sanjay" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cu-sanjay&show_icons=true&locale=en" alt="cu-sanjay" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cu-sanjay&" alt="cu-sanjay" /></p>
