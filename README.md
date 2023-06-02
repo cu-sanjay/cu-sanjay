@@ -2,7 +2,8 @@
   <img align="center" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="coding-gif" width="300" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sanjay Choudhary ✨</h1>
+<h1 align="center"><span style="color: blueviolet;">Hi 👋, I'm Sanjay Choudhary ✨</span></h1>
+
 <h3 align="center"> Still Learning | FULL STACK WEB DEVELOPER | India 🇮🇳</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cu-sanjay&label=Profile+Views&color=blueviolet&style=plastic" alt="cu-sanjay" /> </p>
