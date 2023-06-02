@@ -91,6 +91,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
 </p>
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cu-sanjay&theme=dark&background=0D1117&ring=3EAEFF&fire=3EAEFF&currStreakNum=3EAEFF&currStreakLabel=3EAEFF&sideNums=3EAEFF&sideLabels=3EAEFF&dates=3EAEFF" alt="GitHub Streak" />
+</p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=cu-sanjay&show_icons=true&count_private=true&theme=dark" alt="cu-sanjay" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cu-sanjay&show_icons=true&count_private=true&theme=dark" alt="cu-sanjay" />
 </p>
