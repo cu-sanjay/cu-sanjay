@@ -6,13 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Teko&size=64&duration=4999&pause=1000&color=ECDEF1&background=000000&center=true&vCenter=true&width=435&height=80&lines=Hi%2C+I'm+Sanjay+Choudhary+%E2%9C%A8;Welcome+to+my+Profile;Check+out+my+Projects">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Teko&size=64&lines=Hi%2C+I'm+Sanjay+Choudhary+%E2%9C%A8;Welcome+to+my+Profile;Check+out+my+Projects&emojis=👋,✨,🚀,💻" width="600" height="80">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://example.com/hacker_coder_programmer_icon.png" width="200" height="200" alt="Hacker Coder Programmer">
-</p>
 
 
 <h3 align="center"> Still Learning | FULL STACK WEB DEVELOPER | India 🇮🇳</h3>
