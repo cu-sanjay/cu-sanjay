@@ -6,7 +6,6 @@
 <h3 align="center"> Still Learning | FULL STACK WEB DEVELOPER | India 🇮🇳</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cu-sanjay&label=Profile%20views&color=0e75b6&style=flat" alt="cu-sanjay" /> </p>
-![Profile Views](https://komarev.com/ghpvc/?username=cu-sanjay&label=Profile+Views&color=0e75b6&style=flat-square)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cu-sanjay" alt="cu-sanjay" /></a> </p>
 
