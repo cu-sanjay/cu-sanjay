@@ -100,7 +100,7 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
   </a>
   <a href="https://railway.app" target="_blank" rel="noreferrer">
-    <img src="https://railway.app/brand/logotype-dark.png" alt="railway.app" width="40" height="40" />
+    <img src="https://railway.app/brand/logo-dark.svg" alt="railway.app" width="40" height="40" />
   </a>
 </p>
 
