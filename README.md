@@ -5,10 +5,9 @@
 <h1 align="center"><span style="color: blueviolet;">Hi 👋, I'm Sanjay Choudhary ✨</span></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Teko&size=64&lines=;emojis=👋,✨,🚀,💻Hi%2C+I'm+Sanjay+Choudhary+%E2%9C%A8;;Welcome+to+my+Profile;;Check+out+my+Projects" width="600" height="80">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Teko&color=33FFB5&size=30&center=true&vCenter=true&lines=++++Welcome+to+my+Profile+%3B%29%0ACheck+out+my+Projects">
 </p>
+
 
 
 
