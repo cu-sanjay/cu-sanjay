@@ -96,5 +96,8 @@
   <img src="https://streak-stats.demolab.com?user=cu-sanjay&theme=shades-of-purple&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cu-sanjay&show_icons=true&count_private=true&theme=dark" alt="cu-sanjay" />
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cu-sanjay&show_icons=true&count_private=true&theme=shades-of-purple&border_radius=5" alt="cu-sanjay" />
 </p>
+
