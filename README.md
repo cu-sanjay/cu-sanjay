@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Teko&size=64&duration=4999&pause=1000&color=ECDEF1&background=000000&center=true&vCenter=true&width=435&height=80&lines=Hi%2C+I'm+Sanjay+Choudhary+%E2%9C%A8;Welcome+to+my+Profile;Check+out+my+Projects">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Teko&size=64&duration=4999&pause=1000&color=ECDEF1&background=000000&center=true&vCenter=true&width=435&height=80&lines=✨+Hi%2C+I'm+Sanjay+Choudhary+%E2%9C%A8;✨+Welcome+to+my+Profile+✨;✨+Check+out+my+Projects+✨">
   </a>
 </p>
 
