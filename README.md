@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay Choudhary ✨</h1>
 <h3 align="center"> Still Learning | FULL STACK WEB DEVELOPER | India 🇮🇳</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cu-sanjay&label=Profile%20views&color=0e75b6&style=flat" alt="cu-sanjay" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cu-sanjay&label=Profile+Views&color=blueviolet&style=plastic" alt="cu-sanjay" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cu-sanjay" alt="cu-sanjay" /></a> </p>
 
