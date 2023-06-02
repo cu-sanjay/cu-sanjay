@@ -87,9 +87,6 @@
   <a href="https://desktop.github.com" target="_blank" rel="noreferrer">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github desktop" width="40" height="40" />
   </a>
-  <a href="https://www.rstudio.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rstudio/rstudio-icon.svg" alt="rstudio" width="40" height="40" />
-  </a>
   <a href="https://www.oracle.com/database/technologies/developer-tools/sql-developer.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle11g" width="40" height="40" />
   </a>
@@ -103,7 +100,7 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
   </a>
   <a href="https://railway.app" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/railway/railway-icon.svg" alt="railway.app" width="40" height="40" />
+    <img src="https://railway.app/brand/logotype-dark.svg" alt="railway.app" width="40" height="40" />
   </a>
 </p>
 
