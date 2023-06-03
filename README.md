@@ -2,7 +2,6 @@
   <img align="center" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="coding-gif" width="300" />
 </p>
 
-<hr>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -10,7 +9,6 @@
   </a>
 </p>
 
-<hr>
 
 
 <h3 align="center"> Learning Android 📱 | Full Stack Web Developer 🖥️| India 🔱</h3>
@@ -52,6 +50,7 @@
     <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="geeksforgeeks" height="30" width="30" />
   </a>
 </p>
+<h1 align="center"><span style="color: blueviolet;"></span></h1>
 
 <h3 align="left">Ideas, Problems, and Visuals:</h3>
 <p align="left">Here you can find my submissions from various programming contests, including CodeChef, LeetCode, HackerRank, and GeeksforGeeks. I participate regularly to improve my programming skills and problem-solving abilities.</p>
