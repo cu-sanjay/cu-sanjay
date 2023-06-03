@@ -38,37 +38,108 @@
   <a href="https://instagram.com/sannjay._" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sannjay._" height="30" width="40" />
   </a>
-  <a href="https://t.me/YourTelegramUsername" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="YourTelegramUsername" height="30" width="40" />
+  <a href="https://t.me/Sanjay_X3" target="_blank">
+    <img align="center" src="https://img.icons8.com/?size=512&id=114954&format=png" alt="YourTelegramUsername" height="30" width="40" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your-email@gmail.com" height="30" width="40" />
+  <a href="mailto:your-sanjaychoudharycu@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/?size=512&id=qyRpAggnV0zH&format=png" alt="your-email@gmail.com" height="30" width="40" />
   </a>
 </p>
 
 <h1 align="center"><span style="color: blueviolet;"></span></h1>
 <h3 align="left">Participating in:</h3>
+
 <p align="left">
   <a href="https://leetcode.com/cu-sanjay" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="30" />
+    <img src="https://www.svgrepo.com/show/341985/leetcode.svg" alt="leetcode" height="40" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/sanjay-cuchd" target="_blank">
-    <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="codechef" height="30" width="30" />
-  </a>
-  <a href="https://www.hackerrank.com/sanjay-2705" target="_blank">
-    <img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="hackerrank" height="30" width="30" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/cu-sanjay/profile" target="_blank">
-    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="geeksforgeeks" height="30" width="30" />
-  </a>
+  <strong><span style="font-size: 20px; color: blue;">LeetCode</span></strong> (3⭐)
+  <br>
+  <strong>Skills:</strong> DSA, Dynamic Programming, SQL, Python, Competitive Programming
 </p>
+
+<p align="left">
+  <a href="https://www.codechef.com/users/sanjay-cuchd" target="_blank">
+    <img src="https://www.svgrepo.com/show/330182/codechef.svg" alt="codechef" height="40" width="40" />
+  </a>
+  <strong><span style="font-size: 20px; color: blue;">CodeChef</span></strong> (4⭐)
+  <br>
+  <strong>Skills:</strong> DSA, Competitive Programming
+</p>
+
+<p align="left">
+  <a href="https://www.hackerrank.com/sanjay-2705" target="_blank">
+    <img src="https://www.svgrepo.com/show/306171/hackerrank.svg" alt="hackerrank" height="40" width="40" />
+  </a>
+  <strong><span style="font-size: 20px; color: blue;">HackerRank</span></strong> (5⭐ Java, 5⭐ C++, 3⭐ Python)
+  <br>
+  <strong>Skills:</strong> DSA, Competitive Programming
+</p>
+
+<p align="left">
+  <a href="https://auth.geeksforgeeks.org/user/cu-sanjay/profile" target="_blank">
+    <img src="https://www.svgrepo.com/show/330494/geeksforgeeks.svg" alt="geeksforgeeks" height="40" width="40" />
+  </a>
+  <strong><span style="font-size: 20px; color: blue;">GeeksforGeeks</span></strong> (University Rank: 21 🏆)
+  <br>
+  <strong>Skills:</strong> DSA, Dynamic Programming, SQL, Python
+</p>
+
+<p align="left">
+  <a href="https://www.hackerearth.com/@sanjay-2705" target="_blank">
+    <img src="https://www.svgrepo.com/show/341890/hackerearth.svg" alt="hackerearth" height="40" width="40" />
+  </a>
+  <strong><span style="font-size: 20px; color: blue;">HackerEarth</span></strong> (Rating: 1400 🚀)
+  <br>
+  <strong>Skills:</strong> DSA, Competitive Programming
+</p>
+
+<p align="left">
+  <a href="https://codeforces.com/profile/sanjay-2705" target="_blank">
+    <img src="https://www.svgrepo.com/show/330186/codeforces.svg" alt="codeforces" height="40" width="40" />
+  </a>
+  <strong><span style="font-size: 20px; color: blue;">Codeforces</span></strong> (Highest Rating: 1123 🚀)
+  <br>
+  <strong>Skills:</strong> DSA, Competitive Programming
+</p>
+
+<p align="left">
+  <a href="https://www.codingninjas.com/profile/2130714" target="_blank">
+    <img src="https://www.svgrepo.com/show/330198/codingninjas.svg" alt="codingninjas" height="40" width="40" />
+  </a>
+  <strong><span style="font-size: 20px; color: blue;">Coding Ninjas</span></strong> (Rating: 7000 🚀)
+  <br>
+  <strong>Skills:</strong> DSA, Dynamic Programming, SQL, Python
+</p>
+
+
+
+
+
 <h1 align="center"><span style="color: blueviolet;"></span></h1>
 
-<h3 align="left">Ideas, Problems, and Visuals:</h3>
-<p align="left">Here you can find my submissions from various programming contests, including CodeChef, LeetCode, HackerRank, and GeeksforGeeks. I participate regularly to improve my programming skills and problem-solving abilities.</p>
-<p align="left">I enjoy tackling challenging problems and exploring different algorithms and data structures. My submissions showcase my journey and progress as a programmer.</p>
-<p align="left">Feel free to explore the repository and find inspiration for your own coding journey. You may discover interesting solutions, efficient algorithms, and creative problem-solving approaches.</p>
-<p align="left">I believe that continuous learning and practice are key to becoming a better programmer. I strive to challenge myself with new problems and improve my coding skills every day.</p>
+<h3 align="left">🚀 Ideas, Problems, and Visuals: 🌟</h3>
+
+<p align="left">📌 Welcome to my universe of submissions from various programming contests, including CodeChef, LeetCode, HackerRank, and GeeksforGeeks. This is where I unleash my passion for coding and problem-solving! 💻</p>
+
+<p align="left">🌟 I thrive on tackling challenging problems and exploring different algorithms and data structures. Through my submissions, you can witness my journey and growth as a programmer. 🚀</p>
+
+<p align="left">💡 Dive into the repository and uncover a treasure trove of inspiration for your own coding odyssey. You'll find fascinating solutions, efficient algorithms, and innovative problem-solving approaches that will spark your creativity. 🔥</p>
+
+<p align="left">🌱 I firmly believe in the power of continuous learning and practice to unlock the doors of excellence. Every day, I challenge myself with new problems and strive to refine my coding skills. 📚</p>
+
+<h3 align="left">💡 Projects:</h3>
+
+- 🚀 Cryptonite Application
+- 🌟 Hotel Management Website
+- 🔒 Authentication using MongoDB
+- 🎥 Disney+ Hotstar Web Clone
+
+<p align="left">🌟 Each project has been a learning journey, allowing me to expand my horizons and sharpen my skills. They represent my dedication and commitment to crafting high-quality software solutions. 💪</p>
+
+<p align="left">✨ Let's connect and embark on an exciting coding adventure together! Feel free to explore my projects and be inspired to create your own masterpieces. 🚀</p>
+
+
 <h1 align="center"><span style="color: blueviolet;"></span></h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
