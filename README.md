@@ -15,7 +15,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cu-sanjay&label=Profile+Views&color=blueviolet&style=plastic" alt="cu-sanjay" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cu-sanjay" alt="cu-sanjay" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=cu-sanjay&theme=darkhub&row=1&column=4" alt="cu-sanjay" />
+  </a>
+</p>
+
 
 - 📫 How to reach me **sanjaychoudharycu@gmail.com**
 
