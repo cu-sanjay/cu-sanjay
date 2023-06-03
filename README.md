@@ -26,19 +26,26 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/sanjay02705" target="blank">
+  <a href="https://twitter.com/sanjay02705" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjay02705" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/sanjay-choudhary-6a82b3225" target="blank">
+  <a href="https://linkedin.com/in/sanjay-choudhary-6a82b3225" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-choudhary-6a82b3225" height="30" width="40" />
   </a>
-  <a href="https://codesandbox.com/sanjay-cuchd" target="blank">
+  <a href="https://codesandbox.com/sanjay-cuchd" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sanjay-cuchd" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/sannjay._" target="blank">
+  <a href="https://instagram.com/sannjay._" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sannjay._" height="30" width="40" />
   </a>
+  <a href="https://t.me/YourTelegramUsername" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="YourTelegramUsername" height="30" width="40" />
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your-email@gmail.com" height="30" width="40" />
+  </a>
 </p>
+
 <h1 align="center"><span style="color: blueviolet;"></span></h1>
 <h3 align="left">Participating in:</h3>
 <p align="left">
