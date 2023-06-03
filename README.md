@@ -34,7 +34,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sannjay._" height="30" width="40" />
   </a>
 </p>
-
+<h1 align="center"><span style="color: blueviolet;"></span></h1>
 <h3 align="left">Participating in:</h3>
 <p align="left">
   <a href="https://leetcode.com/cu-sanjay" target="_blank">
@@ -57,7 +57,7 @@
 <p align="left">I enjoy tackling challenging problems and exploring different algorithms and data structures. My submissions showcase my journey and progress as a programmer.</p>
 <p align="left">Feel free to explore the repository and find inspiration for your own coding journey. You may discover interesting solutions, efficient algorithms, and creative problem-solving approaches.</p>
 <p align="left">I believe that continuous learning and practice are key to becoming a better programmer. I strive to challenge myself with new problems and improve my coding skills every day.</p>
-
+<h1 align="center"><span style="color: blueviolet;"></span></h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
