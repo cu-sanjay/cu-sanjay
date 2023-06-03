@@ -39,7 +39,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sannjay._" height="30" width="40" />
   </a>
   <a href="https://t.me/Sanjay_X3" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=512&id=114954&format=png" alt="YourTelegramUsername" height="30" width="40" />
+    <img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-image-1.png" alt="YourTelegramUsername" height="35" width="40" />
   </a>
   <a href="mailto:your-sanjaychoudharycu@gmail.com" target="_blank">
     <img align="center" src="https://img.icons8.com/?size=512&id=qyRpAggnV0zH&format=png" alt="your-email@gmail.com" height="30" width="40" />
