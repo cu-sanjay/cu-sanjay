@@ -13,10 +13,10 @@
   <a href="https://leetcode.com/SanjayChoudhary/" style="text-decoration: none;">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode2.svg" alt="LeetCode">
   </a>
-  <a href="https://t.me/Sanjay_X3" style="text-decoration: none;">
+  <a href="https://t.me/Telegram" style="text-decoration: none;">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" alt="Telegram">
   </a>
-  <a href="https://www.instagram.com/Sannjay._" style="text-decoration: none;">
+  <a href="https://www.instagram.com/Instagram" style="text-decoration: none;">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" alt="Instagram">
   </a>
   <a href="https://discord.com/users/Sannjay" style="text-decoration: none;">
