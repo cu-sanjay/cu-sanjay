@@ -4,6 +4,21 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readmeme.eu.cc/api/music.svg?musicSong=Ranjha&musicArtist=Diljit+Dosanjh%2C+Sia%2C+David+Guetta&musicListen=Now+Playing&musicPlatform=applemusic&theme=classic" />
+</p>
+
+<p align="center">
+  <img src="https://readmeme.eu.cc/api/profile.svg?avatar=https%3A%2F%2Fgithub.com%2Fcu-sanjay.png&name=Sanjay&role=Full-Stack+Developer&bio=Building+cool+things+with+code+n+coffee.&skills=HTML%2CJS%2CREACT%2CNODE%2CPYTHON%2CGIT%2CSQL%2CLINUX%2CFIGMA%2CSASS%2CTAILWIND%2CMONGO&handle=cu-sanjay&theme=terminal" />
+</p>
+
+<p align="center">
+  <sub>
+    Want animated profile widgets and dynamic badges like these? Try 
+    <a href="https://readmeme.eu.cc/">readmeme</a>
+  </sub>
+</p>
+
 <h2 align="center">Connect with me:</h2>
 
 <p align="center">
@@ -24,9 +39,8 @@
   </a>
 </p>
 
-
-
 <h2 align="center">Technologies I work with:</h2>
+
 <p align="center">
   <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg" alt="Kotlin">
