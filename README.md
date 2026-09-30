@@ -49,6 +49,13 @@
   </a>
 </p>
 
+<div align="center">
+  <a href="https://holopin.io/@sanjaychoudhary">
+    <img src="https://holopin.me/sanjaychoudhary" alt="@sanjaychoudhary's Holopin badges" />
+  </a>
+  <p><em>✨ more than 6 years into the open-source, some cute badges ✨</em></p>
+</div>
+
 ## Featured Projects
 
 <p align="center">
