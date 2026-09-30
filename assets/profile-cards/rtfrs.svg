@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" role="img" aria-label="RTFRS — real-time face and animal recognition">
+  <defs>
+    <linearGradient id="rtTop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#FF3D5A"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="399" height="219" rx="12" fill="#161B22" stroke="#30363D"/>
+  <rect x="12" y="10" width="376" height="3" rx="1.5" fill="url(#rtTop)"/>
+
+  <text x="20" y="40" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16px" font-weight="bold" fill="#E6EDF3">RTFRS</text>
+  <text x="20" y="64" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11px" fill="#8B949E">
+    <tspan x="20" dy="0">Real-time face and animal recognition from a</tspan>
+    <tspan x="20" dy="15">webcam feed, with live bounding boxes and labels.</tspan>
+  </text>
+
+  <!-- viewfinder -->
+  <g transform="translate(20,92)">
+    <rect x="0" y="0" width="216" height="86" rx="8" fill="#0D1117" stroke="#30363D"/>
+    <!-- corner brackets -->
+    <g stroke="#00E5FF" stroke-width="2" fill="none" stroke-linecap="round">
+      <path d="M8 20 V 10 h 12"/>
+      <path d="M208 20 V 10 h -12"/>
+      <path d="M8 66 V 76 h 12"/>
+      <path d="M208 66 V 76 h -12"/>
+    </g>
+    <!-- face box + keypoints -->
+    <g>
+      <rect x="26" y="22" width="60" height="52" rx="3" fill="none" stroke="#00E5FF" stroke-width="1.6"/>
+      <rect x="26" y="14" width="52" height="10" rx="2" fill="#00E5FF"/>
+      <text x="30" y="22" font-family="Consolas, Menlo, monospace" font-size="7px" fill="#0D1117">face 0.98</text>
+      <circle cx="44" cy="42" r="1.8" fill="#00E5FF"/>
+      <circle cx="68" cy="42" r="1.8" fill="#00E5FF"/>
+      <circle cx="56" cy="52" r="1.8" fill="#00E5FF"/>
+      <circle cx="44" cy="62" r="1.8" fill="#00E5FF"/>
+      <circle cx="68" cy="62" r="1.8" fill="#00E5FF"/>
+      <g stroke="#00E5FF" stroke-width="0.8" opacity="0.6">
+        <path d="M44 42 L56 52 L68 42 M44 62 L56 52 L68 62 M44 42 L44 62 M68 42 L68 62"/>
+      </g>
+    </g>
+    <!-- animal box -->
+    <g>
+      <rect x="120" y="34" width="72" height="40" rx="3" fill="none" stroke="#FF3D5A" stroke-width="1.6"/>
+      <rect x="120" y="26" width="52" height="10" rx="2" fill="#FF3D5A"/>
+      <text x="124" y="34" font-family="Consolas, Menlo, monospace" font-size="7px" fill="#0D1117">dog 0.91</text>
+      <path d="M132 68 q 10 -20 24 -18 q 14 -2 24 18" fill="#FF3D5A" fill-opacity="0.28"/>
+      <circle cx="148" cy="52" r="2" fill="#FF3D5A"/>
+      <circle cx="164" cy="52" r="2" fill="#FF3D5A"/>
+    </g>
+    <!-- scan line -->
+    <rect x="8" y="82" width="200" height="2" rx="1" fill="#00E5FF" fill-opacity="0.35"/>
+  </g>
+
+  <!-- readout -->
+  <g transform="translate(250,92)">
+    <rect x="0" y="0" width="120" height="86" rx="8" fill="#0D1117" stroke="#30363D"/>
+    <text x="12" y="18" font-family="Consolas, Menlo, monospace" font-size="8px" fill="#8B949E">detections</text>
+    <g font-family="Consolas, Menlo, monospace" font-size="8px">
+      <rect x="12" y="26" width="96" height="6" rx="3" fill="#21262D"/>
+      <rect x="12" y="26" width="90" height="6" rx="3" fill="#00E5FF"/>
+      <text x="12" y="44" fill="#00E5FF">face &#183; 0.98</text>
+      <rect x="12" y="50" width="96" height="6" rx="3" fill="#21262D"/>
+      <rect x="12" y="50" width="72" height="6" rx="3" fill="#FF3D5A"/>
+      <text x="12" y="68" fill="#FF3D5A">dog &#183; 0.91</text>
+      <text x="12" y="80" fill="#8B949E">28 fps &#183; cpu</text>
+    </g>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" text-anchor="middle">
+    <rect x="20" y="188" width="60" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="50" y="202" fill="#00E5FF">Python</text>
+    <rect x="88" y="188" width="70" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="123" y="202" fill="#8B949E">OpenCV</text>
+    <rect x="166" y="188" width="60" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="196" y="202" fill="#8B949E">YOLOv8</text>
+    <rect x="234" y="188" width="76" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="272" y="202" fill="#8B949E">Real-time</text>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="265" height="200" viewBox="0 0 265 200" role="img" aria-label="All repositories">
+  <defs>
+    <linearGradient id="arTop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B949E"/>
+      <stop offset="1" stop-color="#30363D"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="264" height="199" rx="12" fill="#161B22" stroke="#30363D"/>
+  <rect x="12" y="10" width="241" height="3" rx="1.5" fill="url(#arTop)"/>
+
+  <text x="16" y="38" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14px" font-weight="bold" fill="#E6EDF3">All Repositories</text>
+  <text x="16" y="60" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" fill="#8B949E">
+    <tspan x="16" dy="0">Extensions, CLIs, APIs, notebooks</tspan>
+    <tspan x="16" dy="13">and small tools &#8212; all in one place.</tspan>
+  </text>
+
+  <!-- repo rows -->
+  <g transform="translate(16,84)">
+    <g fill="#0D1117" stroke="#30363D">
+      <rect x="0" y="0" width="176" height="20" rx="5"/>
+      <rect x="0" y="26" width="176" height="20" rx="5"/>
+      <rect x="0" y="52" width="176" height="20" rx="5"/>
+    </g>
+    <g>
+      <circle cx="14" cy="10" r="4" fill="#F5C518"/>
+      <rect x="26" y="7" width="80" height="6" rx="3" fill="#21262D"/>
+      <circle cx="14" cy="36" r="4" fill="#2EA043"/>
+      <rect x="26" y="33" width="104" height="6" rx="3" fill="#21262D"/>
+      <circle cx="14" cy="62" r="4" fill="#58A6FF"/>
+      <rect x="26" y="59" width="64" height="6" rx="3" fill="#21262D"/>
+    </g>
+  </g>
+
+  <!-- arrow -->
+  <g transform="translate(216,120)">
+    <circle cx="0" cy="0" r="20" fill="#0D1117" stroke="#30363D"/>
+    <path d="M-8 0 h 14" stroke="#E6EDF3" stroke-width="2" stroke-linecap="round"/>
+    <path d="M1 -6 l 6 6 l -6 6" fill="none" stroke="#E6EDF3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9px" text-anchor="middle">
+    <rect x="16" y="168" width="60" height="18" rx="9" fill="#21262D" stroke="#30363D"/>
+    <text x="46" y="181" fill="#8B949E">30+ repos</text>
+    <rect x="84" y="168" width="48" height="18" rx="9" fill="#21262D" stroke="#30363D"/>
+    <text x="108" y="181" fill="#8B949E">MIT</text>
+    <rect x="140" y="168" width="60" height="18" rx="9" fill="#21262D" stroke="#30363D"/>
+    <text x="170" y="181" fill="#8B949E">Open&#8209;source</text>
+  </g>
+</svg>

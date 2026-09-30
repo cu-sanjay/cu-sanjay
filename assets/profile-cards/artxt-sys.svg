@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" role="img" aria-label="ARTXT.SYS — image to terminal art">
+  <defs>
+    <linearGradient id="axTop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00FF66"/>
+      <stop offset="1" stop-color="#0A7F3F"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="399" height="219" rx="12" fill="#161B22" stroke="#30363D"/>
+  <rect x="12" y="10" width="376" height="3" rx="1.5" fill="url(#axTop)"/>
+
+  <text x="20" y="40" font-family="Consolas, Menlo, monospace" font-size="16px" font-weight="bold" fill="#E6EDF3">ARTXT.SYS</text>
+  <text x="20" y="64" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11px" fill="#8B949E">
+    <tspan x="20" dy="0">Turns any image into ASCII or Braille block art,</tspan>
+    <tspan x="20" dy="15">straight from the browser with live density tuning.</tspan>
+  </text>
+
+  <!-- terminal -->
+  <g transform="translate(20,92)">
+    <rect x="0" y="0" width="222" height="86" rx="8" fill="#0D1117" stroke="#00FF66" stroke-opacity="0.35"/>
+    <rect x="0" y="0" width="222" height="18" rx="8" fill="#0B1A11"/>
+    <rect x="0" y="12" width="222" height="6" fill="#0B1A11"/>
+    <circle cx="12" cy="9" r="2.6" fill="#00FF66"/>
+    <circle cx="22" cy="9" r="2.6" fill="#0A7F3F"/>
+    <circle cx="32" cy="9" r="2.6" fill="#164A2C"/>
+    <text x="111" y="12.5" font-family="Consolas, Menlo, monospace" font-size="9px" fill="#3FB950" text-anchor="middle">artxt &#8212; render</text>
+    <g font-family="Consolas, Menlo, monospace" font-size="9px" fill="#00FF66">
+      <text x="10" y="32">$ artxt in.png --mode braille</text>
+      <text x="10" y="46">&#9617;&#9617;&#9618;&#9619;&#9608;&#9608;&#9619;&#9618;&#9617;&#9617;&#9617;&#9618;&#9619;&#9608;&#9608;&#9608;&#9619;&#9618;&#9617;&#9617;</text>
+      <text x="10" y="58">&#9617;&#9618;&#9619;&#9608;&#9608;&#9608;&#9608;&#9619;&#9618;&#9617;&#9618;&#9619;&#9608;&#9608;&#9608;&#9608;&#9619;&#9618;&#9617;</text>
+      <text x="10" y="70">&#10241;&#10247;&#10255;&#10303;&#10303;&#10255;&#10247;&#10241;&#10241;&#10247;&#10255;&#10303;&#10303;&#10255;&#10247;&#10241;&#10241;&#10247;</text>
+      <text x="10" y="80" fill="#3FB950">done &#183; 1920&#215;1080 &#8594; 180 cols</text>
+    </g>
+  </g>
+
+  <!-- image to grid -->
+  <g transform="translate(256,96)">
+    <rect x="0" y="0" width="52" height="52" rx="6" fill="#0D1117" stroke="#30363D"/>
+    <circle cx="18" cy="18" r="6" fill="#00FF66" fill-opacity="0.5"/>
+    <path d="M8 44 L 24 24 L 36 38 L 44 30 L 44 44 Z" fill="#0A7F3F"/>
+    <path d="M60 26 h 16" stroke="#00FF66" stroke-width="2" stroke-linecap="round"/>
+    <path d="M70 21 l 6 5 l -6 5" fill="none" stroke="#00FF66" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(342,96)" font-family="Consolas, Menlo, monospace" font-size="8px" fill="#00FF66">
+    <rect x="-4" y="0" width="52" height="52" rx="6" fill="#0D1117" stroke="#00FF66" stroke-opacity="0.4"/>
+    <text x="2" y="14">@%#*+=</text>
+    <text x="2" y="26">%#*+=-</text>
+    <text x="2" y="38">#*+=-.</text>
+    <text x="2" y="48" fill="#3FB950">*+=-. </text>
+  </g>
+
+  <!-- mini badges -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9px" text-anchor="middle">
+    <rect x="256" y="156" width="60" height="20" rx="6" fill="#0D1117" stroke="#30363D"/>
+    <text x="286" y="170" fill="#8B949E">Next.js</text>
+    <rect x="322" y="156" width="66" height="20" rx="6" fill="#0D1117" stroke="#30363D"/>
+    <text x="355" y="170" fill="#8B949E">TypeScript</text>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" text-anchor="middle">
+    <rect x="20" y="188" width="60" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="50" y="202" fill="#00FF66">Canvas</text>
+    <rect x="88" y="188" width="56" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="116" y="202" fill="#8B949E">ASCII</text>
+    <rect x="152" y="188" width="62" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="183" y="202" fill="#8B949E">Braille</text>
+  </g>
+</svg>

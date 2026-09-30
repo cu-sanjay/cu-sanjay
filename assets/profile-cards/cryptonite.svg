@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" role="img" aria-label="Cryptonite Chat Application">
+  <defs>
+    <linearGradient id="cnTop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00F2FE"/>
+      <stop offset="1" stop-color="#00FF66"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="399" height="219" rx="12" fill="#161B22" stroke="#30363D"/>
+  <rect x="12" y="10" width="376" height="3" rx="1.5" fill="url(#cnTop)"/>
+
+  <text x="20" y="40" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16px" font-weight="bold" fill="#E6EDF3">Cryptonite Application</text>
+  <text x="20" y="64" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11px" fill="#8B949E">
+    <tspan x="20" dy="0">End-to-end encrypted Android messenger with</tspan>
+    <tspan x="20" dy="15">Diffie&#8209;Hellman key exchange and AES payloads.</tspan>
+  </text>
+
+  <!-- android messaging frame -->
+  <g transform="translate(20,92)">
+    <rect x="0" y="0" width="98" height="88" rx="10" fill="#0D1117" stroke="#30363D"/>
+    <rect x="36" y="4" width="26" height="4" rx="2" fill="#21262D"/>
+    <path d="M0 20 h 98" stroke="#21262D"/>
+    <g>
+      <path d="M8 28 h 54 a 5 5 0 0 1 5 5 v 10 a 5 5 0 0 1 -5 5 H 8 a 5 5 0 0 1 -5 -5 V 33 a 5 5 0 0 1 5 -5 Z" fill="#10222A"/>
+      <rect x="9" y="33" width="42" height="4" rx="2" fill="#00F2FE" fill-opacity="0.75"/>
+      <rect x="9" y="41" width="30" height="4" rx="2" fill="#00F2FE" fill-opacity="0.45"/>
+    </g>
+    <g>
+      <path d="M36 54 h 54 a 5 5 0 0 1 5 5 v 10 a 5 5 0 0 1 -5 5 H 36 a 5 5 0 0 1 -5 -5 V 59 a 5 5 0 0 1 5 -5 Z" fill="#122A1C"/>
+      <rect x="38" y="59" width="44" height="4" rx="2" fill="#00FF66" fill-opacity="0.7"/>
+      <rect x="38" y="67" width="28" height="4" rx="2" fill="#00FF66" fill-opacity="0.4"/>
+    </g>
+    <text x="49" y="84" font-family="Consolas, Menlo, monospace" font-size="7px" fill="#8B949E" text-anchor="middle">ciphertext only</text>
+  </g>
+
+  <!-- lock shield -->
+  <g transform="translate(130,104)">
+    <path d="M22 0 L44 8 v 20 c 0 16 -12 28 -22 32 c -10 -4 -22 -16 -22 -32 V 8 Z" fill="#0D1117" stroke="#00F2FE" stroke-width="1.6"/>
+    <rect x="14" y="26" width="16" height="13" rx="3" fill="none" stroke="#00FF66" stroke-width="1.6"/>
+    <path d="M17 26 v -5 a 5 5 0 0 1 10 0 v 5" fill="none" stroke="#00FF66" stroke-width="1.6"/>
+    <circle cx="22" cy="33" r="1.6" fill="#00FF66"/>
+    <text x="22" y="74" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="8px" fill="#8B949E" text-anchor="middle">E2E encrypted</text>
+  </g>
+
+  <!-- diffie-hellman key exchange nodes -->
+  <g transform="translate(196,96)">
+    <text x="52" y="6" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="8px" fill="#8B949E" text-anchor="middle">Diffie&#8209;Hellman exchange</text>
+    <g stroke="#00F2FE" stroke-width="1.2" opacity="0.7">
+      <line x1="12" y1="24" x2="92" y2="52"/>
+      <line x1="12" y1="52" x2="92" y2="24"/>
+    </g>
+    <g fill="#0D1117" stroke="#00F2FE" stroke-width="1.5">
+      <circle cx="12" cy="24" r="6"/>
+      <circle cx="12" cy="52" r="6"/>
+    </g>
+    <g fill="#0D1117" stroke="#00FF66" stroke-width="1.5">
+      <circle cx="92" cy="24" r="6"/>
+      <circle cx="92" cy="52" r="6"/>
+    </g>
+    <circle cx="52" cy="38" r="7" fill="#00FF66" fill-opacity="0.85"/>
+    <text x="52" y="72" font-family="Consolas, Menlo, monospace" font-size="8px" fill="#00F2FE" text-anchor="middle">shared secret key</text>
+  </g>
+
+  <!-- protocol badges -->
+  <g transform="translate(304,96)" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9px" text-anchor="middle">
+    <rect x="0" y="0" width="76" height="34" rx="6" fill="#0D1117" stroke="#00FF66" stroke-opacity="0.55"/>
+    <text x="38" y="14" fill="#00FF66" font-weight="bold">AES&#8209;256</text>
+    <text x="38" y="27" fill="#8B949E">payload</text>
+    <rect x="0" y="42" width="76" height="34" rx="6" fill="#0D1117" stroke="#00F2FE" stroke-opacity="0.55"/>
+    <text x="38" y="56" fill="#00F2FE" font-weight="bold">RSA&#8209;2048</text>
+    <text x="38" y="69" fill="#8B949E">handshake</text>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" text-anchor="middle">
+    <rect x="20" y="188" width="60" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="50" y="202" fill="#00F2FE">Kotlin</text>
+    <rect x="88" y="188" width="72" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="124" y="202" fill="#8B949E">Android</text>
+    <rect x="168" y="188" width="88" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="212" y="202" fill="#8B949E">Cryptography</text>
+  </g>
+</svg>

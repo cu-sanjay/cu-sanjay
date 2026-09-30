@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" role="img" aria-label="Competitive Programming">
+  <defs>
+    <linearGradient id="cpTop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2EA043"/>
+      <stop offset="1" stop-color="#7EE787"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="399" height="219" rx="12" fill="#161B22" stroke="#30363D"/>
+  <rect x="12" y="10" width="376" height="3" rx="1.5" fill="url(#cpTop)"/>
+
+  <text x="20" y="40" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16px" font-weight="bold" fill="#E6EDF3" text-anchor="start">Competitive Programming</text>
+  <text x="20" y="64" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11px" fill="#8B949E" text-anchor="start">
+    <tspan x="20" dy="0">Contest solutions in C++ with notes on patterns,</tspan>
+    <tspan x="20" dy="15">complexity and reusable algorithm templates.</tspan>
+  </text>
+
+  <!-- terminal -->
+  <g transform="translate(20,94)">
+    <rect x="0" y="0" width="228" height="84" rx="8" fill="#0D1117" stroke="#30363D"/>
+    <rect x="0" y="0" width="228" height="18" rx="8" fill="#161B22"/>
+    <rect x="0" y="12" width="228" height="6" fill="#161B22"/>
+    <circle cx="12" cy="9" r="2.6" fill="#FF5F56"/>
+    <circle cx="22" cy="9" r="2.6" fill="#FFBD2E"/>
+    <circle cx="32" cy="9" r="2.6" fill="#2EA043"/>
+    <text x="114" y="12.5" font-family="Consolas, Menlo, monospace" font-size="9px" fill="#8B949E" text-anchor="middle">solve.cpp &#8212; bash</text>
+    <g font-family="Consolas, Menlo, monospace" font-size="10px">
+      <text x="12" y="36" fill="#2EA043">&#62;_ g++ -O2 solve.cpp -o solve</text>
+      <text x="12" y="52" fill="#8B949E">&#62;_ ./solve &#60; input.txt</text>
+      <text x="12" y="68" fill="#7EE787">Accepted &#183; 46 ms &#183; 3.2 MB</text>
+    </g>
+    <rect x="146" y="61" width="7" height="10" fill="#2EA043"/>
+  </g>
+
+  <!-- binary streams -->
+  <g font-family="Consolas, Menlo, monospace" font-size="9px" fill="#2EA043" opacity="0.55">
+    <text x="262" y="104">1011</text>
+    <text x="262" y="118">0110</text>
+    <text x="262" y="132">1101</text>
+    <text x="262" y="146">0011</text>
+    <text x="262" y="160">1010</text>
+    <text x="262" y="174">0101</text>
+  </g>
+
+  <!-- platform badges -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9px" text-anchor="middle">
+    <rect x="300" y="96" width="70" height="22" rx="6" fill="#0D1117" stroke="#30363D"/>
+    <circle cx="312" cy="107" r="4" fill="#F5C518"/>
+    <text x="341" y="110" fill="#8B949E">LeetCode</text>
+    <rect x="300" y="124" width="70" height="22" rx="6" fill="#0D1117" stroke="#30363D"/>
+    <circle cx="312" cy="135" r="4" fill="#1F8ACB"/>
+    <text x="342" y="138" fill="#8B949E">Codeforces</text>
+    <rect x="300" y="152" width="70" height="22" rx="6" fill="#0D1117" stroke="#2EA043" stroke-opacity="0.5"/>
+    <circle cx="312" cy="163" r="4" fill="#2EA043"/>
+    <text x="342" y="166" fill="#2EA043">CodeChef</text>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" text-anchor="middle">
+    <rect x="20" y="188" width="52" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="46" y="202" fill="#2EA043">C++</text>
+    <rect x="80" y="188" width="86" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="123" y="202" fill="#8B949E">Algorithms</text>
+    <rect x="174" y="188" width="94" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="221" y="202" fill="#8B949E">Data Structures</text>
+  </g>
+</svg>

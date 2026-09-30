@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="265" height="200" viewBox="0 0 265 200" role="img" aria-label="dynamic-favicon Python package">
+  <defs>
+    <linearGradient id="dfTop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3776AB"/>
+      <stop offset="1" stop-color="#FFD43B"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="264" height="199" rx="12" fill="#161B22" stroke="#30363D"/>
+  <rect x="12" y="10" width="241" height="3" rx="1.5" fill="url(#dfTop)"/>
+
+  <text x="16" y="38" font-family="Consolas, Menlo, monospace" font-size="14px" font-weight="bold" fill="#E6EDF3">dynamic-favicon</text>
+  <text x="16" y="60" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" fill="#8B949E">
+    <tspan x="16" dy="0">Cycle your browser tab icon on a</tspan>
+    <tspan x="16" dy="13">timer &#8212; emoji, SVG or PNG frames.</tspan>
+  </text>
+
+  <!-- browser tabs -->
+  <g transform="translate(16,92)">
+    <rect x="0" y="0" width="150" height="52" rx="6" fill="#0D1117" stroke="#30363D"/>
+    <path d="M8 8 h 40 a 4 4 0 0 1 4 4 v 12 H 4 V 12 a 4 4 0 0 1 4 -4 Z" fill="#21262D"/>
+    <circle cx="14" cy="17" r="4" fill="#FFD43B"/>
+    <rect x="22" y="14" width="24" height="6" rx="3" fill="#30363D"/>
+    <path d="M56 8 h 40 a 4 4 0 0 1 4 4 v 12 H 52 V 12 a 4 4 0 0 1 4 -4 Z" fill="#161B22"/>
+    <circle cx="62" cy="17" r="4" fill="#3776AB"/>
+    <rect x="70" y="14" width="24" height="6" rx="3" fill="#30363D"/>
+    <path d="M104 8 h 38 a 4 4 0 0 1 4 4 v 12 H 100 V 12 a 4 4 0 0 1 4 -4 Z" fill="#161B22"/>
+    <circle cx="110" cy="17" r="4" fill="#FFD43B" fill-opacity="0.5"/>
+    <rect x="118" y="14" width="22" height="6" rx="3" fill="#30363D"/>
+    <rect x="4" y="24" width="142" height="22" rx="4" fill="#0D1117"/>
+    <rect x="12" y="32" width="90" height="6" rx="3" fill="#21262D"/>
+  </g>
+
+  <!-- rotating timer -->
+  <g transform="translate(196,118)">
+    <circle cx="0" cy="0" r="24" fill="none" stroke="#21262D" stroke-width="6"/>
+    <path d="M0 -24 a 24 24 0 0 1 20.8 12" fill="none" stroke="#FFD43B" stroke-width="6" stroke-linecap="round"/>
+    <path d="M0 -24 a 24 24 0 0 0 -20.8 12" fill="none" stroke="#3776AB" stroke-width="6" stroke-linecap="round"/>
+    <path d="M0 -10 V 0" stroke="#E6EDF3" stroke-width="2" stroke-linecap="round"/>
+    <path d="M0 0 L 6 4" stroke="#E6EDF3" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.6" fill="#E6EDF3"/>
+  </g>
+
+  <g font-family="Consolas, Menlo, monospace" font-size="9px">
+    <text x="16" y="160" fill="#FFD43B">pip install dynamic-favicon</text>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9px" text-anchor="middle">
+    <rect x="16" y="170" width="54" height="18" rx="9" fill="#21262D" stroke="#30363D"/>
+    <text x="43" y="183" fill="#3776AB">Python</text>
+    <rect x="78" y="170" width="46" height="18" rx="9" fill="#21262D" stroke="#30363D"/>
+    <text x="101" y="183" fill="#8B949E">PyPI</text>
+    <rect x="132" y="170" width="60" height="18" rx="9" fill="#21262D" stroke="#30363D"/>
+    <text x="162" y="183" fill="#8B949E">Streamlit</text>
+  </g>
+</svg>

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" role="img" aria-label="Opal - One-Tap Link Saver">
+  <defs>
+    <linearGradient id="opalTop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00F2FE"/>
+      <stop offset="1" stop-color="#2EE6A8"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="399" height="219" rx="12" fill="#161B22" stroke="#30363D"/>
+  <rect x="12" y="10" width="376" height="3" rx="1.5" fill="url(#opalTop)"/>
+
+  <text x="20" y="40" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16px" font-weight="bold" fill="#E6EDF3" text-anchor="start">Opal &#183; One-Tap Link Saver</text>
+  <text x="20" y="64" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11px" fill="#8B949E" text-anchor="start">
+    <tspan x="20" dy="0">Android share-sheet app that saves any link to</tspan>
+    <tspan x="20" dy="15">your board instantly, fully in the background.</tspan>
+  </text>
+
+  <!-- phone A -->
+  <g transform="translate(28,100)">
+    <rect x="0" y="0" width="60" height="76" rx="10" fill="#0D1117" stroke="#30363D"/>
+    <rect x="20" y="4" width="20" height="3" rx="1.5" fill="#30363D"/>
+    <rect x="7" y="14" width="46" height="10" rx="3" fill="#161B22" stroke="#00F2FE" stroke-opacity="0.5"/>
+    <rect x="10" y="17.5" width="30" height="3" rx="1.5" fill="#00F2FE" fill-opacity="0.7"/>
+    <rect x="7" y="30" width="46" height="7" rx="3" fill="#21262D"/>
+    <rect x="7" y="41" width="34" height="7" rx="3" fill="#21262D"/>
+    <circle cx="30" cy="62" r="9" fill="none" stroke="#00F2FE" stroke-width="1.6"/>
+    <path d="M30 57 L30 67 M25 62 L35 62" stroke="#00F2FE" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+
+  <!-- double chevrons -->
+  <g fill="none" stroke="#00F2FE" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 130 L110 138 L100 146" opacity="0.45"/>
+    <path d="M114 130 L124 138 L114 146" opacity="0.75"/>
+    <path d="M128 130 L138 138 L128 146" opacity="1"/>
+  </g>
+  <text x="119" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9px" fill="#2EE6A8" text-anchor="middle">instant sync</text>
+
+  <!-- phone B -->
+  <g transform="translate(150,100)">
+    <rect x="0" y="0" width="60" height="76" rx="10" fill="#0D1117" stroke="#2EE6A8" stroke-opacity="0.6"/>
+    <rect x="20" y="4" width="20" height="3" rx="1.5" fill="#30363D"/>
+    <rect x="7" y="14" width="46" height="14" rx="4" fill="#161B22" stroke="#2EE6A8" stroke-opacity="0.5"/>
+    <circle cx="14" cy="21" r="3.5" fill="#2EE6A8"/>
+    <rect x="22" y="18" width="26" height="3" rx="1.5" fill="#8B949E"/>
+    <rect x="22" y="23" width="18" height="3" rx="1.5" fill="#484F58"/>
+    <rect x="7" y="33" width="46" height="14" rx="4" fill="#161B22" stroke="#30363D"/>
+    <circle cx="14" cy="40" r="3.5" fill="#00F2FE"/>
+    <rect x="22" y="37" width="24" height="3" rx="1.5" fill="#8B949E"/>
+    <rect x="22" y="42" width="14" height="3" rx="1.5" fill="#484F58"/>
+    <rect x="7" y="52" width="46" height="14" rx="4" fill="#161B22" stroke="#30363D"/>
+    <circle cx="14" cy="59" r="3.5" fill="#484F58"/>
+    <rect x="22" y="56" width="20" height="3" rx="1.5" fill="#484F58"/>
+  </g>
+
+  <!-- link node accent -->
+  <g transform="translate(250,104)">
+    <rect x="0" y="0" width="120" height="72" rx="8" fill="#0D1117" stroke="#30363D"/>
+    <g stroke="#00F2FE" stroke-width="1.2" opacity="0.6">
+      <line x1="24" y1="24" x2="60" y2="42"/>
+      <line x1="60" y1="42" x2="96" y2="20"/>
+      <line x1="60" y1="42" x2="52" y2="58"/>
+    </g>
+    <circle cx="24" cy="24" r="5" fill="#00F2FE"/>
+    <circle cx="60" cy="42" r="6" fill="#2EE6A8"/>
+    <circle cx="96" cy="20" r="5" fill="#0D1117" stroke="#00F2FE" stroke-width="1.6"/>
+    <circle cx="52" cy="58" r="5" fill="#0D1117" stroke="#00F2FE" stroke-width="1.6"/>
+    <path d="M84 54 h 26 M104 48 l 8 6 l -8 6" fill="none" stroke="#2EE6A8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" text-anchor="middle">
+    <rect x="20" y="188" width="62" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="51" y="202" fill="#00F2FE">Kotlin</text>
+    <rect x="90" y="188" width="72" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="126" y="202" fill="#8B949E">Android</text>
+    <rect x="170" y="188" width="90" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="215" y="202" fill="#8B949E">Share Intent</text>
+  </g>
+</svg>

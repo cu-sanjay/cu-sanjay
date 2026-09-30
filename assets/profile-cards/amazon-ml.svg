@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="220" viewBox="0 0 840 220" role="img" aria-label="Amazon ML Summer School 2026">
+  <defs>
+    <linearGradient id="amlTop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF9900"/>
+      <stop offset="0.6" stop-color="#FFC46B"/>
+      <stop offset="1" stop-color="#232F3E"/>
+    </linearGradient>
+    <linearGradient id="amlBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1A1F27"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <radialGradient id="amlGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FF9900" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#FF9900" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="839" height="219" rx="12" fill="url(#amlBg)" stroke="#30363D"/>
+  <rect x="12" y="10" width="816" height="3" rx="1.5" fill="url(#amlTop)"/>
+
+  <!-- title -->
+  <text x="24" y="44" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19px" font-weight="bold" fill="#E6EDF3">Amazon ML Summer School 2026</text>
+  
+  <!-- Amazon-style smile arrow for title -->
+  <path d="M 24 55 C 100 68 180 68 276 53 M 266 59 C 270 56 274 54 276 53 C 272 50 269 47 266 45" fill="none" stroke="#FF9900" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <text x="24" y="76" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11px" fill="#8B949E">
+    <tspan x="24" dy="0">Session Notes, Assignments and Solved PYQ / MCQ Assessment Sets Across All</tspan>
+    <tspan x="24" dy="15">8 Core Modules of the Amazon ML Summer School Selection Track.</tspan>
+  </text>
+
+  <!-- stat cards -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect x="24" y="102" width="170" height="42" rx="8" fill="#0D1117" stroke="#30363D"/>
+    <text x="36" y="120" font-size="9px" fill="#8B949E">Internship Stipend</text>
+    <text x="36" y="135" font-size="12px" font-weight="bold" fill="#FF9900">Up to &#8377;1.5L / Month</text>
+
+    <rect x="204" y="102" width="170" height="42" rx="8" fill="#0D1117" stroke="#30363D"/>
+    <text x="216" y="120" font-size="9px" fill="#8B949E">PPO Highlight</text>
+    <text x="216" y="135" font-size="12px" font-weight="bold" fill="#FF9900">Up to 51 LPA</text>
+
+    <rect x="384" y="102" width="150" height="42" rx="8" fill="#0D1117" stroke="#30363D"/>
+    <text x="396" y="120" font-size="9px" fill="#8B949E">Curriculum</text>
+    <text x="396" y="135" font-size="12px" font-weight="bold" fill="#FFC46B">8 Core Modules</text>
+  </g>
+
+  <!-- module chips -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9px" text-anchor="middle">
+    <rect x="24" y="152" width="76" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="62" y="165" fill="#8B949E">Supervised</text>
+    <rect x="106" y="152" width="90" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="151" y="165" fill="#8B949E">Deep Learning</text>
+    <rect x="202" y="152" width="106" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="255" y="165" fill="#8B949E">Reinforcement L.</text>
+    <rect x="314" y="152" width="88" height="20" rx="10" fill="#21262D" stroke="#FF9900" stroke-opacity="0.45"/>
+    <text x="358" y="165" fill="#FF9900">PYQ + MCQ</text>
+  </g>
+
+  <!-- tags -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" text-anchor="middle">
+    <rect x="24" y="182" width="62" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="55" y="196" fill="#FF9900">Python</text>
+    <rect x="94" y="182" width="66" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="127" y="196" fill="#8B949E">Jupyter</text>
+    <rect x="168" y="182" width="110" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="223" y="196" fill="#8B949E">Machine Learning</text>
+    <rect x="286" y="182" width="116" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="344" y="196" fill="#8B949E">Interview Prep</text>
+  </g>
+
+  <!-- neural network graphic -->
+  <ellipse cx="620" cy="112" rx="82" ry="60" fill="url(#amlGlow)"/>
+  <g stroke="#FF9900" stroke-width="1" opacity="0.5">
+    <line x1="562" y1="88" x2="616" y2="76"/>
+    <line x1="562" y1="88" x2="616" y2="112"/>
+    <line x1="562" y1="88" x2="616" y2="148"/>
+    <line x1="562" y1="136" x2="616" y2="76"/>
+    <line x1="562" y1="136" x2="616" y2="112"/>
+    <line x1="562" y1="136" x2="616" y2="148"/>
+    <line x1="616" y1="76" x2="672" y2="112"/>
+    <line x1="616" y1="112" x2="672" y2="112"/>
+    <line x1="616" y1="148" x2="672" y2="112"/>
+  </g>
+  <g fill="#0D1117" stroke="#FF9900" stroke-width="1.6">
+    <circle cx="562" cy="88" r="6"/>
+    <circle cx="562" cy="136" r="6"/>
+    <circle cx="616" cy="76" r="6"/>
+    <circle cx="616" cy="112" r="6"/>
+    <circle cx="616" cy="148" r="6"/>
+  </g>
+  <circle cx="672" cy="112" r="8" fill="#FF9900"/>
+  <text x="617" y="188" font-family="Consolas, Menlo, monospace" font-size="9px" fill="#8B949E" text-anchor="middle">Notes &#183; Code &#183; Solutions</text>
+
+  <!-- right accent panel with Amazon logo image -->
+  <rect x="700" y="30" width="116" height="160" rx="10" fill="#0D1117" stroke="#30363D"/>
+  
+  <image href="Amazon.png" x="716" y="50" width="84" height="26" preserveAspectRatio="xMidYMid meet"/>
+
+  <text x="758" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9px" fill="#8B949E" text-anchor="middle">ML Summer School</text>
+  <line x1="716" y1="108" x2="800" y2="108" stroke="#30363D"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="758" y="132" font-size="20px" font-weight="bold" fill="#FF9900">2026</text>
+    <text x="758" y="148" font-size="9px" fill="#8B949E">Cohort</text>
+    <rect x="716" y="158" width="84" height="20" rx="10" fill="#21262D" stroke="#FF9900" stroke-opacity="0.5"/>
+    <text x="758" y="172" font-size="9px" fill="#FF9900">India Track</text>
+  </g>
+</svg>

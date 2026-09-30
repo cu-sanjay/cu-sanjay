@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" role="img" aria-label="PDF-GPT v2.0 — chat with your PDFs">
+  <defs>
+    <linearGradient id="pgTop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4285F4"/>
+      <stop offset="1" stop-color="#C5221F"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="399" height="219" rx="12" fill="#161B22" stroke="#30363D"/>
+  <rect x="12" y="10" width="376" height="3" rx="1.5" fill="url(#pgTop)"/>
+
+  <text x="20" y="40" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16px" font-weight="bold" fill="#E6EDF3">PDF&#8209;GPT v2.0</text>
+  <text x="20" y="64" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11px" fill="#8B949E">
+    <tspan x="20" dy="0">Ask questions across long PDFs &#8212; chunked,</tspan>
+    <tspan x="20" dy="15">embedded into FAISS and answered with citations.</tspan>
+  </text>
+
+  <!-- pdf pages -->
+  <g transform="translate(22,98)">
+    <path d="M10 6 a 6 6 0 0 1 6 -6 h 26 l 14 14 v 48 a 6 6 0 0 1 -6 6 H 16 a 6 6 0 0 1 -6 -6 Z" fill="#0D1117" stroke="#30363D"/>
+    <path d="M0 14 a 6 6 0 0 1 6 -6 h 22 l 12 12 v 46 a 6 6 0 0 1 -6 6 H 6 a 6 6 0 0 1 -6 -6 Z" fill="#0D1117" stroke="#C5221F" stroke-opacity="0.6"/>
+    <rect x="7" y="34" width="26" height="4" rx="2" fill="#21262D"/>
+    <rect x="7" y="43" width="20" height="4" rx="2" fill="#21262D"/>
+    <rect x="7" y="52" width="24" height="4" rx="2" fill="#21262D"/>
+    <text x="20" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="8px" font-weight="bold" fill="#C5221F" text-anchor="middle">PDF</text>
+  </g>
+
+  <!-- FAISS cluster -->
+  <g transform="translate(104,96)">
+    <text x="52" y="8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9px" fill="#8B949E" text-anchor="middle">FAISS vectors</text>
+    <g stroke="#4285F4" stroke-width="1" opacity="0.6">
+      <line x1="16" y1="30" x2="48" y2="22"/>
+      <line x1="16" y1="30" x2="44" y2="48"/>
+      <line x1="48" y1="22" x2="84" y2="34"/>
+      <line x1="44" y1="48" x2="84" y2="34"/>
+      <line x1="44" y1="48" x2="70" y2="62"/>
+      <line x1="70" y1="62" x2="84" y2="34"/>
+      <line x1="48" y1="22" x2="44" y2="48"/>
+    </g>
+    <g fill="#0D1117" stroke="#4285F4" stroke-width="1.5">
+      <circle cx="16" cy="30" r="5"/>
+      <circle cx="48" cy="22" r="5"/>
+      <circle cx="44" cy="48" r="5"/>
+      <circle cx="70" cy="62" r="5"/>
+    </g>
+    <circle cx="84" cy="34" r="6" fill="#4285F4"/>
+    <text x="52" y="82" font-family="Consolas, Menlo, monospace" font-size="8px" fill="#4285F4" text-anchor="middle">top&#8209;k = 5</text>
+  </g>
+
+  <!-- chat thread -->
+  <g transform="translate(212,94)">
+    <rect x="0" y="0" width="158" height="84" rx="8" fill="#0D1117" stroke="#30363D"/>
+    <g>
+      <path d="M40 10 h 104 a 5 5 0 0 1 5 5 v 14 a 5 5 0 0 1 -5 5 H 40 a 5 5 0 0 1 -5 -5 V 15 a 5 5 0 0 1 5 -5 Z" fill="#16233A"/>
+      <rect x="42" y="16" width="80" height="4" rx="2" fill="#4285F4" fill-opacity="0.8"/>
+      <rect x="42" y="25" width="56" height="4" rx="2" fill="#4285F4" fill-opacity="0.5"/>
+    </g>
+    <g>
+      <path d="M14 42 h 104 a 5 5 0 0 1 5 5 v 22 a 5 5 0 0 1 -5 5 H 14 a 5 5 0 0 1 -5 -5 V 47 a 5 5 0 0 1 5 -5 Z" fill="#21262D"/>
+      <rect x="18" y="48" width="92" height="4" rx="2" fill="#484F58"/>
+      <rect x="18" y="57" width="74" height="4" rx="2" fill="#484F58"/>
+      <rect x="18" y="66" width="40" height="4" rx="2" fill="#C5221F" fill-opacity="0.7"/>
+      <text x="66" y="70" font-family="Consolas, Menlo, monospace" font-size="7px" fill="#8B949E">p. 14</text>
+    </g>
+    <circle cx="140" cy="66" r="8" fill="none" stroke="#4285F4" stroke-width="1.4"/>
+    <path d="M136 66 h 8 M140 62 v 8" stroke="#4285F4" stroke-width="1.4" stroke-linecap="round"/>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" text-anchor="middle">
+    <rect x="20" y="188" width="60" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="50" y="202" fill="#4285F4">Python</text>
+    <rect x="88" y="188" width="62" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="119" y="202" fill="#8B949E">Gemini</text>
+    <rect x="158" y="188" width="54" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="185" y="202" fill="#8B949E">FAISS</text>
+    <rect x="220" y="188" width="72" height="20" rx="10" fill="#21262D" stroke="#30363D"/>
+    <text x="256" y="202" fill="#8B949E">Streamlit</text>
+  </g>
+</svg>
